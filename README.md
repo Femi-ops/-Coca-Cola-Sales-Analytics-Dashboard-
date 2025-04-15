@@ -4,8 +4,6 @@ Absolutely! Here's a complete, detailed, and **catchy** GitHub `README.md` secti
 
 # 🥤 Coca-Cola Sales Dashboard - Power BI Project
 
-![Coca-Cola Sales Dashboard](https://r2.gptseek.com/pin_review_scholar.png)
-
 📊 This interactive Power BI project delivers a **deep dive into Coca-Cola's beverage sales performance** across the U.S., offering clear insights into sales volumes, profit trends, and regional performance across various brands under Coca-Cola's portfolio.
 
 ---
